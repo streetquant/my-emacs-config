@@ -1,1 +1,12 @@
 archive-contents
+auto-save-list
+elpa
+elpa-*
+eln-cache
+history
+places
+recentf
+transient
+.cache
+.emacs.desktop
+.emacs.desktop.lock
